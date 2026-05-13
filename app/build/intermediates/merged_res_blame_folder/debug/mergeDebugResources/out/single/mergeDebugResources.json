@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.hexglyph.app-debug-74:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.hexglyph.app-main-76:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hexglyph.app-debug-74:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.hexglyph.app-main-76:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hexglyph.app-debug-74:/xml_data_extraction_rules.xml.flat",
+        "source": "com.hexglyph.app-main-76:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.hexglyph.app-debug-74:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.hexglyph.app-main-76:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hexglyph.app-debug-74:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.hexglyph.app-main-76:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hexglyph.app-debug-74:/xml_file_provider_paths.xml.flat",
+        "source": "com.hexglyph.app-main-76:/xml/file_provider_paths.xml"
+    },
+    {
+        "merged": "com.hexglyph.app-debug-74:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.hexglyph.app-main-76:/mipmap-hdpi/ic_launcher.png"
+    }
+]

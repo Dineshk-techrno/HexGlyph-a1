@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Internal app files -->
+    <files-path
+        name="internal_files"
+        path="." />
+
+    <!-- Glyph export folder -->
+    <files-path
+        name="glyphs"
+        path="glyphs/" />
+
+    <!-- Cache -->
+    <cache-path
+        name="cache"
+        path="." />
+
+    <!-- External files -->
+    <external-files-path
+        name="external_files"
+        path="." />
+
+</paths>
